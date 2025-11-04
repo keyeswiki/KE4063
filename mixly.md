@@ -11,11 +11,11 @@ Mixly支持多种硬件平台，包括Arduino、ESP8266等，适用于各种创�
 
 ![](media/b88d5a8bec0483fd6b4a76090531e3e5.png)  
 
-## 测试代码（测试软件：mixly1.2.0）  
+## 3. 测试代码（测试软件：mixly1.2.0）  
 
 ![](media/ef4cf1517fc5a31c33e737bed345c4ca.png)  
 
-## 3. 测试结果  
+## 4. 测试结果  
 
 使用蓝牙调试助手，搜索并连接到蓝牙模块，连接成功后蓝牙模块的LED指示灯会亮起。在HC-COM中输入字符'a'并发送，蓝牙APP将显示"keyes"。主板上的Pin13 LED会亮起；当HC-COM发送字符'b'时，APP将显示"no"，同时主板上的Pin13 LED将熄灭。  
 

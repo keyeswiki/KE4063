@@ -32,7 +32,7 @@ void loop() {
         Serial.println("keyes");  
     }  
 }  
-```  
+```
 
 ## 4. 代码说明  
 
@@ -57,10 +57,5 @@ void loop() {
 ![](media/ad1f54a80fd529f9e393f7c11d9c4fd3.png)  
 
 ![](media/48e1b20a4908bbc0bb4c003c77929629.jpeg)
-
-
-
-
-
 
 
